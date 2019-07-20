@@ -17,7 +17,7 @@ source:
 
 build:
   merge_build_host: True  # [win]
-  number: 1001
+  number: 1002
 
   rpaths:
     - lib/R/lib/
@@ -52,6 +52,7 @@ about:
   license_family: GPL3
 extra:
    recipe-maintainers:
+    - conda-forge/r
     - MathiasHaudgaard
     - FrodePedersen
     - ArneKr
