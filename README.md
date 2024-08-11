@@ -9,7 +9,7 @@ About r-uniqueatommat
 
 Home: https://github.com/gitlongor/uniqueAtomMat
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Summary: An alternative implementation of base::duplicated.matrix(), base:anyDuplicated.matrix() and base::unique.matrix() for matrices of atomic mode, avoiding the time consuming collapse of the matrix into a character vector. An extra grpDuplicated() function is added, which groups duplicated elements together. 
 
@@ -18,7 +18,7 @@ About r-uniqueatommat
 
 Home: https://github.com/gitlongor/uniqueAtomMat
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Summary: An alternative implementation of base::duplicated.matrix(), base:anyDuplicated.matrix() and base::unique.matrix() for matrices of atomic mode, avoiding the time consuming collapse of the matrix into a character vector. An extra grpDuplicated() function is added, which groups duplicated elements together. 
 
@@ -213,5 +213,5 @@ Feedstock Maintainers
 * [@ArneKr](https://github.com/ArneKr/)
 * [@FrodePedersen](https://github.com/FrodePedersen/)
 * [@MathiasHaudgaard](https://github.com/MathiasHaudgaard/)
-* [@conda-forge/r](https://github.com/conda-forge/r/)
+* [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 
